@@ -1,0 +1,15 @@
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\bin\Debug\net6.0\warriorwars.exe
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\bin\Debug\net6.0\warriorwars.deps.json
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\bin\Debug\net6.0\warriorwars.runtimeconfig.json
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\bin\Debug\net6.0\warriorwars.dll
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\bin\Debug\net6.0\warriorwars.pdb
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\warriorwars.csproj.AssemblyReference.cache
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\warriorwars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\warriorwars.AssemblyInfoInputs.cache
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\warriorwars.AssemblyInfo.cs
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\warriorwars.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\warriorwars.dll
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\refint\warriorwars.dll
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\warriorwars.pdb
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\warriorwars.genruntimeconfig.cache
+C:\Users\Aaron Geo Binoy\Learning-C-\warriorwars\warriorwars\obj\Debug\net6.0\ref\warriorwars.dll
